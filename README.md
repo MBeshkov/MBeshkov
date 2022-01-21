@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on entry-level open source projects.
 - 🤔 I’m looking for help with data structures and algorithms.
 - 💬 Ask me about my favourite science-fiction literature :D
-- 📫 How to reach me: mihail.beshkov6@gmail.com
+- 📫 How to reach me: mihail.beshkov@mail.com
 - 🧙‍♂️ Interests and hobbies:
 - Sociology – ambition to learn more about how people interact and what patterns and models can be observed 
 in our society
