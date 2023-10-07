@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently 3rd year student in Uni of Aberdeen, doing a degree in Business Management with Computing.
+- 🔭 I’m currently 4th year student in Uni of Aberdeen, doing a degree in Business Management with Computing.
 - 🌱 I’m currently learning the principles of software engineering.
 - 👯 I’m looking to collaborate on entry-level open source projects.
-- 🤔 I’m looking for help with data structures and algorithms.
+- 🤔 I’m looking for help with front end development.
 - 💬 Ask me about my favourite science-fiction literature :D
 - 📫 How to reach me: mihail.beshkov@mail.com
 - 🧙‍♂️ Interests and hobbies:
